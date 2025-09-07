@@ -1,4 +1,4 @@
-**EPX/USD Price Prediction using GRU: Deep Learning Approach to Cryptocurrency Forecasting**
+<u>**EPX/USD Price Prediction using GRU: Deep Learning Approach to Cryptocurrency Forecasting**</u>
 
 This project focuses on predicting EPX/USD cryptocurrency price movements using advanced deep learning techniques and financial indicators. The goal is to design a reliable predictive model that can help in analyzing potential price trends with high accuracy.
 
